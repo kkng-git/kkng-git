@@ -1,10 +1,10 @@
-# Hi There!
+# Hi There! 👋
 
 I'm Kendrick, and I'm a full stack Software Engineer born and raised in the Bay Area. I have experience in developing application features, configuring identity and access management, protecting sensitive data, and managing cloud deployed services. I'm always looking for new things to play around with; check out my profile to see what I'm working on now!
 
 I also love basketball, cooking, cars, and cats! Reach out if you have any cool ideas regarding those things!
 
-## Current Work
+## Current Work 🎶
 
 ### Personal Website
 
@@ -12,7 +12,7 @@ I also love basketball, cooking, cars, and cats! Reach out if you have any cool 
 
 A responsive portfolio with a supporting service that provides Spotify activity and recommendations.
 
-## Previous Work
+## Previous Work 💼
 
 ### [Loot](https://github.com/Joshuliu/loot)
 

@@ -4,7 +4,7 @@ I'm Kendrick, and I'm a full stack Software Engineer born and raised in the Bay 
 
 I also love basketball, cooking, cars, and cats! Reach out if you have any cool ideas regarding those things!
 
-## Current Work 🎶
+## Current Work 🗒️
 
 ### Personal Website
 

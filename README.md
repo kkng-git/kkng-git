@@ -12,6 +12,10 @@ I also love basketball, cooking, cars, and cats! Reach out if you have any cool 
 
 A responsive portfolio with a supporting service that provides Spotify activity and recommendations.
 
+This utilizes a Redis cache to serve duplicate requests and optimize API usage.
+
+Currently working on optimizing my website for search engine and AI retrieval!
+
 ## Previous Work 💼
 
 ### [Loot](https://github.com/Joshuliu/loot)
